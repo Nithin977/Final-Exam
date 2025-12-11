@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 MAD204 - Final Exam Project  
 
 Student Name: Nithin Amin  
@@ -52,4 +52,4 @@ IDE: Android Studio
 =======
 # Final-Exam
 MAD204-1 Java Development for MA FINAL EXAM
->>>>>>> dc25d2cd12f999444d625ac315fafa1f5f7d1421
+
